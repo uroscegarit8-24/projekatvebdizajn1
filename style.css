@@ -252,3 +252,24 @@ footer {
     background-color: #333;
     color: white;
 }
+
+.seo-content {
+    max-width: 1000px;
+    margin: 60px auto;
+    padding: 30px;
+    line-height: 1.8;
+}
+
+.seo-content h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.seo-content h2 {
+    margin-top: 35px;
+    margin-bottom: 15px;
+}
+
+.seo-content p {
+    margin-bottom: 20px;
+}
