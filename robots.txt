@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uroscegarit8-24.github.io/projekatvebdizajn1/sitemap.xml
